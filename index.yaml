@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  zoo-core:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-02-06T06:15:39.93392943Z"
+    description: Zoo Labs Foundation core infrastructure
+    digest: 42401a54bdde277e2c1f9abed862e9208738e65a7c0bc51956188a304293897c
+    home: https://zoo.ngo
+    icon: https://zoo.ngo/icon.png
+    maintainers:
+    - email: ops@zoo.ngo
+      name: Zoo Labs Foundation
+    name: zoo-core
+    type: application
+    urls:
+    - https://github.com/zooai/charts/releases/download/zoo-core-0.1.0/zoo-core-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-06T06:15:39.933936183Z"
