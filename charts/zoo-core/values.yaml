@@ -1,0 +1,5 @@
+replicaCount: 1
+image:
+  repository: ghcr.io/zooai/core
+  tag: latest
+  pullPolicy: Always
